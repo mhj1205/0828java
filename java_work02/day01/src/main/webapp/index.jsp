@@ -36,6 +36,7 @@ TodoVo todo = new TodoVo(100,"집안 정리하기", true);
 <ul>
 <li><a href="app">app 실행</a></li>
 <li><a href="todo/list">TodoList</a></li>
+
 </ul>
 
 </body>
