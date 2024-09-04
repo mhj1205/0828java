@@ -24,7 +24,7 @@
   		<servlet-class>org.comstudy.myweb.SimpleHttpServelet</servlet-class>
   </servlet>
   <servlet-mapping>
-  		<servlet-name>Simple</servlet-name>
-  		<url-pattern>/Simple</url-pattern>
+  		<servlet-name>simple</servlet-name>
+  		<url-pattern>/simple</url-pattern>
   </servlet-mapping>
 </web-app>
